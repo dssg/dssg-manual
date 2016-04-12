@@ -27,7 +27,7 @@ We'll go into each of these goals in more detail.
    * getting to know each other better
    * up to speed on the tools and approaches we will use throughout the summer. 
 
-We also provide ongoing training through lectures and workshops every week throughout the summer. This will include both training sessions on technical skills required for every data science project (from data exploration to pipeline construction to model evaluation) and sessions on concepts and skills required to work within the realm of social good. Dedicated full-time data science and technical mentors as well as project managers will support and guide you throughout the summer. For more details on curriculum content and organization, see the “Learning” section below. 
+   We also provide ongoing training through lectures and workshops every week throughout the summer. This will include both training sessions on technical skills required for every data science project (from data exploration to pipeline construction to model evaluation) and sessions on concepts and skills required to work within the realm of social good. Dedicated full-time data science and technical mentors as well as project managers will support and guide you throughout the summer. For more details on curriculum content and organization, see the “Learning” section below. 
    
    In short, we want the summer to be a productive and collaborative experience for you where you learn by working on real projects.  We will support you with many types of resources for the summer. The biggest resource, however, are the other fellows in your cohort. Every fellow brings their own experience and expertise, and we aim to foster a learning environment where everyone can share their knowledge and learn from one another.
 
