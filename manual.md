@@ -6,6 +6,18 @@ Welcome to the Data Science for Social Good (DSSG) Fellowship program! We hope y
 
 This manual outlines our goals in running this Fellowship program, our hopes for your experience, and our expectations for the participants. Additionally, we’ve outlined what you can expect from us and the basic structure of the program.
 
+# Table of Contents
+1. [Goals of the Fellowship](#goals-of-the-fellowship)
+2. [Our Hopes for Your Fellowship Experience](#our-hopes-for-your-fellowship-experience)
+3. [Expectations at DSSG](#expectations-at-dssg)
+4. [The DSSG Environment](#the-dssg-environment)
+   1. [The Space](#the-space)
+   2. [The People](#the-people)
+   3. [The Learning](#the-learning)
+   4. [The Tools](#the-tools)
+   5. [The Communication](#the-communication)
+   6. [The Fun](#the-fun)
+
 # Goals of the Fellowship
 
 There are three main goals for this program. We know that these are lofty goals. We do not pretend to know the optimal way to achieve them, but we think it’s worth trying. We expect all of you to help us improving our program so we can acheive these goals more effectively. Our three goals (in order of priority) are:
