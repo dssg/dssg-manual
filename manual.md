@@ -1,9 +1,28 @@
 _We put together this manual for incoming Data Science for Social Good Fellows at the University of Chicago, but decided to publish it to the outside world in the hopes that it gives a clearer view into the DSSG program for potential future fellows, mentors, and project partners._
 ________________
 Table of Contents
+
 - [Goals of the Fellowship](#goals-of-the-fellowship)
     - [Training Our Fellows](##training-our-fellows)
     - [Introducing Data Science to Governments and Non-Profits](##introducing-data-science-to-governments-and-non-profits)
+    -  [Building a Community of Data Scientists for Social Good](##building-a-community-of-data-scientists-for-social-good)
+- [Code of Conduct](#code-of-conduct)
+     - [Anti-Harassment Policy](##anti-harassment-policy)
+- [Our Hopes for Your Fellowship Experience](#our-hopes-for-your-fellowship-experience)
+- [Our Expectations of Fellows](#our-expectations-of-fellows)
+- [The DSSG Environment](#the-dssg-environment)
+    - [The Space](##the-space)
+    - [The People](##the-people)
+    - [The Learning](##the-learning)
+    - [The Tools](##the-tools)
+    - [The Communication](##the-communication)
+    - [The Fun](##the-fun)(!!)
+- [Before the Summer](#before-the-summer)
+     - [Learning About Projects and Partners](##learning-about-projects-and-partners)
+     - [Working on Your Project](##working-on-your-project]
+     - [Presentations](##presentations)
+     - [Wrap-up and Handovers](##wrap-up-and-handovers)
+     - [A Typical Week](##a-typical-week)
 Welcome to the Data Science for Social Good (DSSG) Fellowship program! We hope your experience this summer as a fellow will help you grow your skills as a data scientist as well as help you  learn how to apply those skills to solve real-world problems with a social impact.
 
 This manual outlines our goals in running this Fellowship program, our hopes for your experience, and our expectations of the participants. Additionally, we’ve outlined what you can expect from us and the basic structure of the program.
@@ -16,9 +35,28 @@ There are three main goals for this program. We know that these are lofty goals.
 2. [Introducing Data Science to Governments and Non-Profits](##introducing-data-science-to-governments-and-non-profits)  
 3. [Building a Community of Data Scientists for Social Good](##building-a-community-of-data-scientists-for-social-good)  
 
-Our overarching goal, in the long term, is for more of this type of work to happen in the world, and that our fellows are better trained, and more likely to use their skills for social good after going through the fellowship program.
+Our overarching goal, in the long term, is for more of this type of work to happen in the world, and that our fellows are better trained, and more likely to use their skills for social good after going through the fellowship program. 
 
-We'll go into each of these goals in more detail.
+# Code of Conduct
+
+Our Code of Conduct applies to all participants in all of our events open to external partners and the public, as well as to the fellowship itself. We hope that most things in it should go without saying, but we wanted to make them explicit. Everyone at DSSG should feel welcome, and we want to foster a safe, productive environment for fellows, staff, and visitors.
+
+Our Anti-Harassement Policy (below) always applies. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of staff. 
+
+**If the matter is especially urgent, please call/contact one of your fellow advocates:**
+Benedict Kuester or Jane Zanzig via private Slack message 
+Rob Mitchum via private Slack message or by call/text at (773) 484-9890
+
+## Anti-Harassment Policy
+
+Data Science for Social Good is dedicated to providing a harassment-free experience in all event venues, including talks, parties, online media, for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form.
+
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion, the use or display of sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Participants violating these rules may be sanctioned or expelled from the fellowship or fellowship events at the discretion of the organizers. If any fellow or fellowship event participant engages in harassing behavior, the organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the fellowship or event. 
+
+If you feel you have been unfairly accused of violating this code of conduct, you should contact the fellowship staff team with a concise description of your grievance; any grievances filed will be considered by DSSG staff.
+
 
 ## Training Our Fellows  
 
@@ -64,7 +102,7 @@ We hope you might use the summer to:
 
 Throughout the summer, we encourage you to share your ideas about how to improve the fellowship experience for yourself and others. We are constantly trying to improve the fellowship every day all summer and over each summer as learn from each cohort.
 
-# Expectations at DSSG
+# Our Expectations of Fellows
 
 The fellowship offers a lot of freedom to explore and learn, and some of your routines and responsibilities will be specific to your project; however, we expect all fellows to stick to the basic principles listed below at all times. The same principles apply to everybody else at the fellowship, including mentors, project managers, and the fellowship organizers. If you feel that anyone is not behaving in accordance with these guidelines, we invite you to bring it up constructively. If you are unsure who to address, or if you are uncomfortable doing so directly, you can bring up your concerns or suggestions with the fellow advocate.
 
@@ -159,7 +197,7 @@ We get a lot of questions about what to expect in terms of the arc of the summer
 
 Prior to your arrival, we will send you a variety of pre-training resources so you can start working with and learning how to use the tools you’ll use all summer. These resources will include a list of software to install prior to your arrival and tools/programming languages you should brush up on. We will also send you a list of projects and ask for your preferences on which projects you'd like to work on in the summer. Based on your preferences, the needs of the project, and the balance of disciplines for each team, we will create a team of 3-4 fellows for each project.
 
-## Learning about the Projects and Partners
+## Learning about Projects and Partners
 
 Year-round staff at the Center for Data Science and Public Policy (DSaPP) work hard to recruit and scope projects throughout the year. Because of various logistical hurdles (think legal data sharing agreements and data transfer challenges), project partners will be finalized on an on-going basis all the way up to the start of the fellowship. As such, you will not receive your project assignment until the second week of DSSG.
 
@@ -190,7 +228,7 @@ Each week, a member of your team will give a 2-3 minute update to the entire fel
 
 At the end of the summer, your team will develop two polished presentations: one 5-minute presentation for the final DSSG Data Fest event, and one 20-minute technical presentation for use at conferences, local Meetup events, and presenting at your home institution. Each group will be assigned a local meetup to give their presentation. In preparation for the DSSG Data Fest, our communications staff will work with you on both of these presentations, brainstorming ways to present your work and providing feedback on your delivery. 
 
-## Wrap-Up and Transitioning the Work
+## Wrap-Up and Handovers 
 
 We want to make sure the work you do over the summer has real impact. For that impact to happen, a lot more needs to be done after you finish the summer. Some of that work is done by the project partner, some of it is done by the Center for Data Science and Public Policy at the University of Chicago, and some of it may even be one by the fellows who continue to stay involved. What is critical for that follow-up work to take place is that you wrap up and document your work well so that others can continue and sustain your efforts. We also need to make sure that we transition the work over to the project partners so they can continue to extend, validate, implement, and deploy your work.
 
@@ -237,25 +275,6 @@ Friday
 * 1pm : DSSG-wide lunch 
 * Afternoon: work
 
-# Code of Conduct
-
-Our Code of Conduct applies to all participants in all of our events open to external partners and the public, as well as to the fellowship itself. We hope that most things in it should go without saying, but we wanted to make them explicit. Everyone at DSSG should feel welcome, and we want to foster a safe, productive environment for fellows, staff, and visitors.
-
-Our Anti-Harassement Policy (below) always applies. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of staff. 
-
-**If the matter is especially urgent, please call/contact one of your fellow advocates:**
-Benedict Kuester or Jane Zanzig via private Slack message 
-Rob Mitchum via private Slack message or by call/text at (773) 484-9890
-
-## Anti-Harassment Policy
-
-Data Science for Social Good is dedicated to providing a harassment-free experience in all event venues, including talks, parties, online media, for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form.
-
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion, the use or display of sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Participants violating these rules may be sanctioned or expelled from the fellowship or fellowship events at the discretion of the organizers. If any fellow or fellowship event participant engages in harassing behavior, the organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the fellowship or event. 
-
-If you feel you have been unfairly accused of violating this code of conduct, you should contact the fellowship staff team with a concise description of your grievance; any grievances filed will be considered by DSSG staff.
 
 ## Credits
 This manual was collaboratively created by many of us at the Center for Data Science and Public Policy at the University of Chicago with lots of help from various online sources listed below. Contributors include Bridgit Donnelly, Matt Gee, Rayid Ghani, Lauren Haynes, Jen Helsby, Lindsay Knight, Benedict Kuester, Joe Walsh, and Jane Zanzig.
