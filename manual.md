@@ -1,6 +1,6 @@
-_We put together this manual for incoming Data Science for Social Good Fellows at the University of Chicago, but decided to publish it to the outside world in the hopes that it gives a clearer view into the DSSG program for potential future fellows, mentors, and project partners._
+_We put together this manual for incoming Data Science for Social Good Fellows at the University of Chicago. We are making it public to provide insight into DSSG to fellows, mentors, project partners, and anyone else interested in doing data science for social good._
 ________________
-Table of Contents
+# Table of Contents
 
 - [Goals of the Fellowship](#goals-of-the-fellowship)
     - [Training Our Fellows](##training-our-fellows)
@@ -19,10 +19,12 @@ Table of Contents
     - [The Fun](##the-fun)(!!)
 - [Before the Summer](#before-the-summer)
      - [Learning About Projects and Partners](##learning-about-projects-and-partners)
-     - [Working on Your Project](##working-on-your-project]
+     - [Working on Your Project](##working-on-your-project)
      - [Presentations](##presentations)
      - [Wrap-up and Handovers](##wrap-up-and-handovers)
      - [A Typical Week](##a-typical-week)
+
+
 Welcome to the Data Science for Social Good (DSSG) Fellowship program! We hope your experience this summer as a fellow will help you grow your skills as a data scientist as well as help you  learn how to apply those skills to solve real-world problems with a social impact.
 
 This manual outlines our goals in running this Fellowship program, our hopes for your experience, and our expectations of the participants. Additionally, we’ve outlined what you can expect from us and the basic structure of the program.
@@ -39,12 +41,10 @@ Our overarching goal, in the long term, is for more of this type of work to happ
 
 # Code of Conduct
 
-Our Code of Conduct applies to all participants in all of our events open to external partners and the public, as well as to the fellowship itself. We hope that most things in it should go without saying, but we wanted to make them explicit. Everyone at DSSG should feel welcome, and we want to foster a safe, productive environment for fellows, staff, and visitors.
+Our Code of Conduct applies to all participants in all of our events open to external partners and the public, as well as to the fellowship itself. We hope that these things go without saying. We want to ensure that everyone who comes into the DSSG space to feel welcome, and we want to foster a safe, productive environment for fellows, staff, and visitors. 
 
-Our Anti-Harassement Policy (below) always applies. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of staff. 
-
-**If the matter is especially urgent, please call/contact one of your fellow advocates:**
-Benedict Kuester or Jane Zanzig via private Slack message 
+Our Anti-Harassement Policy (below) explicitly outlines the behavior for which we have a zero tolerance policy. If you feel that you or anyone else is being harassed or treated unfairly, or have any other concerns about this policy, please contact ** one of your fellow advocates:**
+Jane Zanzig via private Slack message or by call/text at (206) 235-6912
 Rob Mitchum via private Slack message or by call/text at (773) 484-9890
 
 ## Anti-Harassment Policy
@@ -205,7 +205,7 @@ After orientation, you will spend the first part of the summer getting to know y
 
 While we know you are eager to dig into data immediately, data science for social good is not just about data and cannot happen in a vacuum. We believe that it is important for you to thoroughly understand the problem you are trying to solve and underlying issues in order to approach your solution more intentionally. Not only do evaluation metrics depend on your specific goals, but understanding and knowledge of the problem is crucial in understanding what your variables even mean. To help with that initial context, most project partners will come on site during the first two weeks and spend a couple of days with their team.
 
-## Working on your Project
+## Working on Your Project
 
 We aim to have all data from project partners well in advance of the fellowship, but that's never really possible. We sometimes have delays in getting data or get partial data that needs to be augmented during the fellowship. As you explore the data, you'll find holes in the data that was provided and will need to work with the project partner to fix that. That’s the reality of working with partners that collect sensitive data.
 
