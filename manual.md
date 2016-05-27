@@ -1,24 +1,26 @@
 _We put together this manual for incoming Data Science for Social Good Fellows at the University of Chicago, but decided to publish it to the outside world in the hopes that it gives a clearer view into the DSSG program for potential future fellows, mentors, and project partners._
 ________________
-
-
+Table of Contents
+- [Goals of the Fellowship](#goals-of-the-fellowship)
+    - [Training Our Fellows](##training-our-fellows)
+    - [Introducing Data Science to Governments and Non-Profits](##introducing-data-science-to-governments-and-non-profits)
 Welcome to the Data Science for Social Good (DSSG) Fellowship program! We hope your experience this summer as a fellow will help you grow your skills as a data scientist as well as help you  learn how to apply those skills to solve real-world problems with a social impact.
 
-This manual outlines our goals in running this Fellowship program, our hopes for your experience, and our expectations for the participants. Additionally, we’ve outlined what you can expect from us and the basic structure of the program.
+This manual outlines our goals in running this Fellowship program, our hopes for your experience, and our expectations of the participants. Additionally, we’ve outlined what you can expect from us and the basic structure of the program.
 
 # Goals of the Fellowship
 
 There are three main goals for this program. We know that these are lofty goals. We do not pretend to know the optimal way to achieve them, but we think it’s worth trying. We expect all of you to help us improving our program so we can acheive these goals more effectively. Our three goals (in order of priority) are:
 
-1. **Training Our Fellows**  
-2. **Introducing Data Science to Governments and Non-Profits**  
-3. **Building a Community of Data Scientists for Social Good**  
+1. [Training Our Fellows](##training-our-fellows)
+2. [Introducing Data Science to Governments and Non-Profits](##introducing-data-science-to-governments-and-non-profits)  
+3. [Building a Community of Data Scientists for Social Good](##building-a-community-of-data-scientists-for-social-good)  
 
 Our overarching goal, in the long term, is for more of this type of work to happen in the world, and that our fellows are better trained, and more likely to use their skills for social good after going through the fellowship program.
 
 We'll go into each of these goals in more detail.
 
-1. **Training Our Fellows**  
+## Training Our Fellows  
 
    This is our number one priority.  First and foremost, DSSG is a training program. We believe that the best way to learn is by doing, which is why you will work in teams with a government or non-profit project partner on a real-world project. Over the course of the summer, you will gain hands-on experience not only with data science and technical skills, but also on working with project partners, understanding social issues, learning how to use social science methods, working collaboratively on a data science team, developing solutions in an agile way, and communicating your work effectively to technical and non-technical audiences.
    
@@ -241,9 +243,9 @@ Our Code of Conduct applies to all participants in all of our events open to ext
 
 Our Anti-Harassement Policy (below) always applies. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of staff. 
 
-**If the matter is especially urgent, please call/contact any of these individuals:**
-
-NAME (position) at phone number
+**If the matter is especially urgent, please call/contact one of your fellow advocates:**
+Benedict Kuester or Jane Zanzig via private Slack message 
+Rob Mitchum via private Slack message or by call/text at (773) 484-9890
 
 ## Anti-Harassment Policy
 
