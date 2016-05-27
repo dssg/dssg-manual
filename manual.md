@@ -3,26 +3,26 @@ ________________
 # Table of Contents
 
 - [Goals of the Fellowship](#goals-of-the-fellowship)
-    - [Training Our Fellows](##training-our-fellows)
-    - [Introducing Data Science to Governments and Non-Profits](##introducing-data-science-to-governments-and-non-profits)
-    -  [Building a Community of Data Scientists for Social Good](##building-a-community-of-data-scientists-for-social-good)
+    - [Training Our Fellows](#training-our-fellows)
+    - [Introducing Data Science to Governments and Non-Profits](#introducing-data-science-to-governments-and-non-profits)
+    -  [Building a Community of Data Scientists for Social Good](#building-a-community-of-data-scientists-for-social-good)
 - [Code of Conduct](#code-of-conduct)
-     - [Anti-Harassment Policy](##anti-harassment-policy)
+     - [Anti-Harassment Policy](#anti-harassment-policy)
 - [Our Hopes for Your Fellowship Experience](#our-hopes-for-your-fellowship-experience)
 - [Our Expectations of Fellows](#our-expectations-of-fellows)
 - [The DSSG Environment](#the-dssg-environment)
-    - [The Space](##the-space)
-    - [The People](##the-people)
-    - [The Learning](##the-learning)
-    - [The Tools](##the-tools)
-    - [The Communication](##the-communication)
-    - [The Fun](##the-fun)(!!)
+    - [The Space](#the-space)
+    - [The People](#the-people)
+    - [The Learning](#the-learning)
+    - [The Tools](#the-tools)
+    - [The Communication](#the-communication)
+    - [The Fun](#the-fun)(!!)
 - [Before the Summer](#before-the-summer)
-     - [Learning About Projects and Partners](##learning-about-projects-and-partners)
-     - [Working on Your Project](##working-on-your-project)
-     - [Presentations](##presentations)
-     - [Wrap-up and Handovers](##wrap-up-and-handovers)
-     - [A Typical Week](##a-typical-week)
+     - [Learning About Projects and Partners](#learning-about-projects-and-partners)
+     - [Working on Your Project](#working-on-your-project)
+     - [Presentations](#presentations)
+     - [Wrap-up and Handovers](#wrap-up-and-handovers)
+     - [A Typical Week](#a-typical-week)
 
 Welcome to the Data Science for Social Good (DSSG) Fellowship program! We hope your experience this summer as a fellow will help you grow your skills as a data scientist as well as help you learn how to apply those skills to solve real-world problems with a social impact.
 
@@ -50,9 +50,9 @@ If you feel you have been unfairly accused of violating this code of conduct, yo
 
 There are three main goals for this program. We know that these are lofty goals. We do not pretend to know the optimal way to achieve them, but we think it’s worth trying. We expect all of you to help us improving our program so we can acheive these goals more effectively. Our three goals (in order of priority) are:
 
-1. [Training Our Fellows](##training-our-fellows)
-2. [Introducing Data Science to Governments and Non-Profits](##introducing-data-science-to-governments-and-non-profits)  
-3. [Building a Community of Data Scientists for Social Good](##building-a-community-of-data-scientists-for-social-good)  
+1. [Training Our Fellows](#training-our-fellows)
+2. [Introducing Data Science to Governments and Non-Profits](#introducing-data-science-to-governments-and-non-profits)  
+3. [Building a Community of Data Scientists for Social Good](#building-a-community-of-data-scientists-for-social-good)  
 
 Our overarching goal, in the long term, is for more of this type of work to happen in the world, and that our fellows are better trained, and more likely to use their skills for social good after going through the fellowship program. 
 
