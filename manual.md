@@ -42,9 +42,11 @@ Data Science for Social Good is dedicated to providing a harassment-free experie
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion, the use or display of sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Participants violating these rules may be sanctioned or expelled from the fellowship or fellowship events at the discretion of the organizers. If any fellow or fellowship event participant engages in harassing behavior, the organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the fellowship or event. 
+Participants asked to stop any harassing behavior are expected to comply immediately and may be sanctioned or expelled from the fellowship or fellowship events at the discretion of the organizers. Organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the fellowship or event.
 
-If you feel you have been unfairly accused of violating this code of conduct, you should contact the fellowship staff team with a concise description of your grievance; any grievances filed will be considered by DSSG staff.
+If you feel anyone has violated this policy, please bring it up directly with the individual or with a DSSG staff member or fellow advocate.
+
+If you feel you have been unfairly accused of violating this code of conduct, you should contact the fellowship staff team with a concise description of your grievance; all grievances will be considered.
 
 # Goals of the Fellowship
 
