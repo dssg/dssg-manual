@@ -16,7 +16,7 @@ ________________
     - [The Learning](#the-learning)
     - [The Tools](#the-tools)
     - [The Communication](#the-communication)
-    - [The Fun](#the-fun)(!!)
+    - [The Fun](#the-fun) (!!)
 - [Before the Summer](#before-the-summer)
      - [Learning About Projects and Partners](#learning-about-projects-and-partners)
      - [Working on Your Project](#working-on-your-project)
@@ -32,13 +32,13 @@ This manual outlines our goals in running this Fellowship program, our hopes for
 
 Our Code of Conduct applies to all participants in all of our events open to external partners and the public, as well as to the fellowship itself. We hope that these things go without saying. We want to ensure that everyone who comes into the DSSG space to feel welcome, and we want to foster a safe, productive environment for fellows, staff, and visitors. 
 
-Our Anti-Harassement Policy (below) explicitly outlines the behavior for which we have a zero tolerance policy. If you feel that you or anyone else is being harassed or treated unfairly, or have any other concerns about this policy, please contact ** one of your fellow advocates:**
+Our Anti-Harassment Policy (below) explicitly outlines the behavior for which we have a zero tolerance policy. If you feel that you or anyone else is being harassed or treated unfairly, or have any other concerns about this policy, please contact **one of your fellow advocates:**
 Jane Zanzig via private Slack message or by call/text at (206) 235-6912
 Rob Mitchum via private Slack message or by call/text at (773) 484-9890
 
 ## Anti-Harassment Policy
 
-Data Science for Social Good is dedicated to providing a harassment-free experience in all event venues, including talks, parties, online media, for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form.
+Data Science for Social Good is dedicated to providing a harassment-free experience in all event venues, including talks, parties, and online media, for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion, the use or display of sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -101,13 +101,11 @@ Throughout the summer, we encourage you to share your ideas about how to improve
 
 # Our Expectations of Fellows
 
-The fellowship offers a lot of freedom to explore and learn, and some of your routines and responsibilities will be specific to your project; however, we expect all fellows to stick to the basic principles listed below at all times. The same principles apply to everybody else at the fellowship, including mentors, project managers, and the fellowship organizers. If you feel that anyone is not behaving in accordance with these guidelines, we invite you to bring it up constructively. If you are unsure who to address, or if you are uncomfortable doing so directly, you can bring up your concerns or suggestions with the fellow advocate.
+The fellowship offers a lot of freedom to explore and learn, and some of your routines and responsibilities will project-specific; however, we expect all fellows to stick to the basic principles listed below at all times. The same principles apply to everybody else at the fellowship, including mentors, project managers, and the fellowship organizers. If you feel that anyone is not behaving in accordance with these guidelines, we invite you to bring it up constructively. If you are unsure who to address, or if you are uncomfortable doing so directly, you can bring up your concerns or suggestions with the fellow advocate.
 
-**Be open-minded and willing to compromise.**
-Things might not go as you thought they would. It is natural that at times you may be disappointed or unhappy with your team members, mentors, project partner, or the fellowship as a whole; similarly, there will be times when someone else feels that way toward you. Keep an open mind, communicate with everybody involved, and compromise. Neither your project, nor your team, nor the fellowship will be perfect. Remember that everyone involved has invested a lot in the fellowship and want all participants to be happy. 
-
-**Be supportive.**
-DSSG brings together fellows and partners from different backgrounds and with different skills. In fact, this might be the best resource the fellowship has to offer! Share your knowledge and your experience with each other. Be patient as you teach each other and have an open ear for your peers. 
+**Be supportive, open-minded, and willing to compromise.**
+- DSSG brings together fellows and partners from different backgrounds and with different skills. In fact, this might be the best resource the fellowship has to offer! Share your knowledge and your experience with each other. Be patient as you teach each other and have an open ear for your peers. 
+- Things might not go as you thought they would. It is natural that at times you may be disappointed or unhappy with your team members, mentors, project partner, or the fellowship as a whole; similarly, there will be times when someone else feels that way toward you. Keep an open mind, communicate with everybody involved, and compromise. Neither your project, nor your team, nor the fellowship will be perfect. Remember that everyone involved has invested a lot in the fellowship and want all participants to be happy.
 
 **Be professional.**
 You will be working with NGOs, non-profits, and government institutions as project partners. You will also be presenting your work to and attending events with the general public. In all of these capacities you are acting as a representative of the whole DSSG community. We expect you to be professional — that is, respectful, friendly, and on time — in your conduct with partners and the public alike.
@@ -136,7 +134,7 @@ Regardless of how much experience you have, we admitted you because we believe t
 
 ## The Space
 
-Each year we rent a space in downtown Chicago. While the space changes from year to year, the layout is generally open, with desk space for each team. There will also be private conference space for team meetings and calls with partners. Upon arrival, you will receive the conference room request and reservation policy. We also aim to provide access to a kitchen with coffee and an espresso maker. We provide a limited supply of snacks and catered meals for special events. Let us know if you have any special food restrictions.
+Each year we rent a space in downtown Chicago. While the space changes from year to year, the layout is open, with desk space for each team. There will also be private conference space for team meetings and calls with partners. Upon arrival, you will receive the conference room request and reservation policy. We also aim to provide access to a kitchen with coffee and an espresso maker. We provide a limited supply of snacks and catered meals for special events. Let us know if you have any special food restrictions.
 
 You will learn more about space logistics (location, key card access, etc.) as they are finalized in the weeks leading up to the fellowship.
 
